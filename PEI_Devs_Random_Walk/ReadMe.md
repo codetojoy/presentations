@@ -31,7 +31,7 @@ The following are some notes that may help those who attended the talk. They are
 * Write the summary/abstract first. It is your chance to set the expectations/parameters of the talk.
 * Language matters:
     * Is your talk informal? a funny rant? a creative flight of fancy? Communicate that in the summary.
-    * I use "executive summary" to enforce an overview of a topic (as opposed to a training session.)
+    * I use "executive summary" to enforce an overview of a topic (as opposed to a training session).
     * For this talk, I used "random walk" and "informal" to set the tone.
 * Plan a story
     * For PEI Devs, it could be as simple as: 
