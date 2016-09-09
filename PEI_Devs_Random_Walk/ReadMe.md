@@ -1,6 +1,7 @@
 
 # Resources
 
+* [A Random Walk Down Wall Street](https://en.wikipedia.org/wiki/A_Random_Walk_Down_Wall_Street)
 * [Presentation Patterns](http://presentationpatterns.com/)
 * [Presentation Patterns Glossary](http://presentationpatterns.com/glossary)
 * [Neal Ford presentation](https://vimeo.com/68327322) (via [Matt Duffy](http://twitter.com/medexperience))
@@ -22,7 +23,8 @@ The following are some notes that may help those who attended the talk. They are
 
 ## Identify the gig (was *Identify Terrain*)
 
-* There are subtle differences between a standard PEI Devs tech talk, a lightning talk, a company "lunch and learn", CIPS PEI, etc.
+* There are differences between a standard tech talk, a lightning talk, a "dry run", a company "lunch and learn", a conference talk, a keynote (!!!) and so on.
+* Every organization (PEI Devs, CIPS PEI, Maritime Dev Con, your company) will have different characteristics. e.g. CIPS is more formal than PEI Devs, and a different audience.
 * Is the audience composed of coders, or a mix of IT Managers, Sys Admins, etc?
 * Consider informal vs formal re: prepration time, post-talk artifacts, etc.
 
@@ -67,6 +69,7 @@ The following are some notes that may help those who attended the talk. They are
 * Consider having a copy of your talk available online, or on a USB drive. Prepare for disaster.
 * *Canned* demos can be useful. Run the code beforehand and capture the output, as on a TV cooking show.
 * Ask a friend to give constructive criticism on your performance.
+* For formal talks, give a "dry-run" of the talk at a less formal venue. You could give a company lunch talk before presenting for PEI Devs. Or possibly a dry-run for PEI Devs before Maritime Dev Con. You'll get useful feedback and reach more people to boot.
 
 ## The Skinny
 
