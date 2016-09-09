@@ -3,7 +3,7 @@
 
 * [Presentation Patterns](http://presentationpatterns.com/)
 * [Presentation Patterns Glossary](http://presentationpatterns.com/glossary)
-* [Neal Ford presentation](https://vimeo.com/68327322)
+* [Neal Ford presentation](https://vimeo.com/68327322) (via [Matt Duffy](http://twitter.com/medexperience))
 * [Lampshade Hanging](http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging)
 * [Search Creative Commons](https://search.creativecommons.org/)
 
