@@ -28,7 +28,7 @@ The following are some notes that may help those who attended the talk. They are
 
 ## Set Expectations/Parameters (was *Plan Your Journey*)
 
-* Write the summary/abstract first. It is your chance to set the expectations/parameters of the talk.
+* Write the summary/abstract first. It's your chance to set the expectations/parameters of the talk.
 * Language matters:
     * Is your talk informal? a funny rant? a creative flight of fancy? Communicate that in the summary.
     * I use "executive summary" to enforce an overview of a topic (as opposed to a training session).
@@ -58,10 +58,10 @@ The following are some notes that may help those who attended the talk. They are
 ## Other Tips
 
 * As an observer, pay attention to the presentation dimension of a talk. You'll discover lots of tricks.
-* Most speakers practice their talks, **aloud**, many times. It is important for timing, knowing the material, and managing nervousness.
+* Most speakers practice their talks, **aloud**, many times. It's important for timing, knowing the material, and managing nervousness.
 * Use a stopwatch during practice and during the talk. Identify temporal milestones.
 * Buy a remote clicker/laser pointer. 
-* It is always scary to speak in public, but it does get easier with experience. Consider a public speaking class, such as ToastMasters. Take a class in acting, or improv theatre.
+* It's always scary to speak in public, but it does get easier with experience. Consider a public speaking class, such as ToastMasters. Take a class in acting, or improv theatre.
 * For a talk, contact the organizers about A/V stuff so that no one is surprised.
 * Consider having a copy of your talk available online, or on a USB drive. Prepare for disaster.
 * *Canned* demos can be useful. Run the code beforehand and capture the output, as on a TV cooking show.
