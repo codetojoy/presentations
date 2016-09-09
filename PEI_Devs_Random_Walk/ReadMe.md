@@ -66,7 +66,7 @@ The following are some notes that may help those who attended the talk. They are
 * For a talk, contact the organizers about A/V stuff so that no one is surprised.
 * Consider having a copy of your talk available online, or on a USB drive. Prepare for disaster.
 * *Canned* demos can be useful. Run the code beforehand and capture the output, as on a TV cooking show.
-* As a friend to give constructive criticism on your performance.
+* Ask a friend to give constructive criticism on your performance.
 
 ## The Skinny
 
