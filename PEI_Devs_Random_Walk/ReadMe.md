@@ -70,5 +70,5 @@ The following are some notes that may help those who attended the talk. They are
 
 ## The Skinny
 
-Presenting a tech talk can be intimidating, but it's a true growth experience. PEI Devs needs more speakers to be sustainable, so please submit your talk idea. The good news is that our group is *perfect* as talks can be informal or formal, and the people in the group are wonderful. Your audience is a bunch of friendly, sharp geeks who want to hear your story.
+Presenting a tech talk can be intimidating, but it's a true growth experience. PEI Devs needs more speakers to be sustainable, so please submit your talk idea. The good news: our group is the *perfect* training ground. Talks can be informal or formal, and the people in the group are wonderful. Your audience is a bunch of friendly, sharp geeks who want to hear your story.
 
