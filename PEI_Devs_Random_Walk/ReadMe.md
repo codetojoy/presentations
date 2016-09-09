@@ -49,6 +49,7 @@ The following are some notes that may help those who attended the talk. They are
 * Example patterns: Narrative Arc, Triad, Cave Painting, Lightsaber
 * Example anti-patterns: Laser Weapon (!), Ant Font, Photo Maniac, Bullet-Ridden Corpse
 * Just as we aspire to write code *with no if statements*, consider building slides with *no bullet points*.
+* Have an opinion, but be flexible in listening/incorporating feedback.
 * My own opinions (YMMV):
     * I aim to be enthusiastic, loud (in the theatre sense), with an interesting narrative.
     * I prioritize those that attend the talk. e.g. For a company "lunch-and-learn", I despise conference calls, as it distracts everyone. I'd rather visit each office individually.
