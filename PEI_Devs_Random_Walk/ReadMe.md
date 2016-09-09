@@ -34,7 +34,11 @@ The following are some notes that may help those who attended the talk. They are
     * I use "executive summary" to enforce an overview of a topic (as opposed to a training session.)
     * For this talk, I used "random walk" and "informal" to set the tone.
 * Plan a story
-    * For PEI Devs, it could be: (a) I was curious about language X (b) I downloaded it and studied it (c) Here's what I learned. Note *three* acts.
+    * For PEI Devs, it could be as simple as: 
+        * (a) I was curious about language X 
+        * (b) I downloaded it and studied it 
+        * (c) Here's what I learned. 
+    * Note *three* acts!
 * Time & Artifacts
     * Consider how much effort you want to put into images, code examples, slide transitions, and so on. (The type of gig will influence this.)
 
