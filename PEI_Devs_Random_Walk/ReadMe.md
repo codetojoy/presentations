@@ -35,8 +35,8 @@ The following are some notes that may help those who attended the talk. They are
     * For this talk, I used "random walk" and "informal" to set the tone.
 * Plan a story
     * For PEI Devs, it could be as simple as: 
-        * (a) I was curious about language X 
-        * (b) I downloaded it and studied it 
+        * (a) I was curious about language X.
+        * (b) I downloaded it and studied it. 
         * (c) Here's what I learned. 
     * Note *three* acts!
 * Time & Artifacts
