@@ -35,6 +35,7 @@ The following are some notes that may help those who attended the talk. They are
     * Is your talk informal? a funny rant? a creative flight of fancy? Communicate that in the summary.
     * I use "executive summary" to enforce an overview of a topic (as opposed to a training session).
     * For this talk, I used "random walk" and "informal" to set the tone.
+    * Be sure to state pre-requisites for the audience. e.g. For a talk on Groovy, state that a working knowledge of Java is expected.
 * Plan a story
     * For PEI Devs, it could be as simple as: 
         * (a) I was curious about language X.
@@ -57,6 +58,7 @@ The following are some notes that may help those who attended the talk. They are
     * I prioritize those that attend the talk. e.g. For a company "lunch-and-learn", I despise conference calls, as it distracts everyone. I'd rather visit each office individually.
     * For informal talks, I don't spend time on slides for post-talk viewing. I told a story around the campfire: you had to be there.
     * I *do* post code examples in a well-documented GitHub repo (for post-talk viewing). I don't try to put code into presentation software: I simply *break-out* of the slides into an editor. 
+    * I've observed that excellent talks draw an analogy from another discipline, such as art history, music, math, and so on. The parallel info is inherently interesting to the audience, and if the analogy is apt, then it can make a compelling argument. As an example, in the early 2000s, against the heavy, ornate weight of Web Services, a simple, fresh solution emerged: REST. An analogy might be the rock music scene in the late 1980s, and [this album](https://en.wikipedia.org/wiki/Nevermind).  
 
 ## Other Tips
 
