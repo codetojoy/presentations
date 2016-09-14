@@ -65,6 +65,7 @@ The following are some notes that may help those who attended the talk. They are
 * As an observer, pay attention to the presentation dimension of a talk. You'll discover lots of tricks.
 * Most speakers practice their talks, **aloud**, many times. It's important for timing, knowing the material, and managing nervousness.
 * Use a stopwatch during practice and during the talk. Identify temporal milestones.
+* If you are running out of time, with lots of material, **don't** speed through the slides to get to the end. You're not receiving a grade on the # of slides presented. Skip slides discreetly, and generalize your points into an elegant take-away message.
 * Buy a remote clicker/laser pointer. 
 * It's always scary to speak in public, but it does get easier with experience. Consider a public speaking class, such as ToastMasters. Take a class in acting, or improv theatre.
 * For a talk, contact the organizers about A/V stuff so that no one is surprised.
@@ -72,6 +73,12 @@ The following are some notes that may help those who attended the talk. They are
 * *Canned* demos can be useful. Run the code beforehand and capture the output, as on a TV cooking show.
 * Ask a friend to give constructive criticism on your performance.
 * For formal talks, give a "dry-run" of the talk at a less formal venue. You could give a company lunch talk before presenting for PEI Devs. Or possibly a dry-run for PEI Devs before Maritime Dev Con. You'll get useful feedback and reach more people to boot.
+
+## Lessons Learned
+
+* Early on, I gave a talk without preparing for time. Naturally, I had way too much material.
+* I've given code-heavy talks to a group that weren't really coders. Uncomfortable.
+* At a 45-minute lunch-n-learn with elite coders, I've given a 10 minute, artsy history of an existing tool, prior to introducing the topic. Bad idea. They wanted a quick intro and then code examples. In this case, *code is gold*. 
 
 ## The Skinny
 
