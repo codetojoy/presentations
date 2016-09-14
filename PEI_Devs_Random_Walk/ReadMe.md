@@ -78,7 +78,8 @@ The following are some notes that may help those who attended the talk. They are
 
 * Early on, I gave a talk without preparing for time. Naturally, I had way too much material.
 * I've given code-heavy talks to a group that weren't really coders. Uncomfortable.
-* At a 45-minute lunch-n-learn with elite coders, I've given a 10 minute, artsy history of an existing tool, prior to introducing the topic. Bad idea. They wanted a quick intro and then code examples. In this case, *code is gold*. 
+* At a 45-minute lunch-n-learn with elite coders, I opened with a 10 minute, artsy history of an existing tool, prior to the main topic. *Bad* idea. They wanted a quick intro and code examples. In this case, *code is gold*. 
+* Nothing is more nerve-wracking than an A/V issue before a presentation. Do all you can to prepare for this.
 
 ## The Skinny
 
