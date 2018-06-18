@@ -63,6 +63,8 @@ The following are some notes that may help those who attended the talk. They are
 ## Other Tips
 
 * As an observer, pay attention to the presentation dimension of a talk. You'll discover lots of tricks.
+    * Take notes as if in a lecture at university. 
+    * Reverse-engineer the outline of the talk. This will not only reveal the structure, but will also help with staying focused (e.g. for talks late in the day).
 * Most speakers practice their talks, **aloud**, many times. It's important for timing, knowing the material, and managing nervousness.
 * Use a stopwatch during practice and during the talk. Identify temporal milestones.
 * If you are running out of time, with lots of material, **don't** speed through the slides to get to the end. You're not receiving a grade on the # of slides presented. Skip slides discreetly, and generalize your points into an elegant take-away message.
